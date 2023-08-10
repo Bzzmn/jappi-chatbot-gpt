@@ -1,0 +1,1024 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933387434@s.whatsapp.net',
+    fromMe: false,
+    id: '6E1737A6843C3277EEE4A82B2F890D57',
+    participant: undefined
+  },
+  messageTimestamp: 1691566308,
+  pushName: 'Alvaro Bass',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56933387434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933387434@s.whatsapp.net',
+    fromMe: false,
+    id: '8D86E1E5361CACA9C0CC9F8407345652',
+    participant: undefined
+  },
+  messageTimestamp: 1691566319,
+  pushName: 'Alvaro Bass',
+  broadcast: false,
+  message: Message {
+    conversation: 'Contenido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Contenido',
+  from: '56933387434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933387434@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE5102630492B320EE374A8CFBACCC4C',
+    participant: undefined
+  },
+  messageTimestamp: 1691585185,
+  pushName: 'Alvaro Bass',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tengo un dolor en la pierna, hazme 5 preguntas que puedan ayudar a identificar el diagnostico probable',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tengo un dolor en la pierna, hazme 5 preguntas que puedan ayudar a identificar el diagnostico probable',
+  from: '56933387434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933387434@s.whatsapp.net',
+    fromMe: false,
+    id: 'CB9718F01ACC76B7C12785A907D07672',
+    participant: undefined
+  },
+  messageTimestamp: 1691585266,
+  pushName: 'Alvaro Bass',
+  broadcast: false,
+  message: Message {
+    conversation: 'Voy a enseñar a identificar una posible lesion muscular, dime 5 preguntas que deberia hacer un medico a un paciente para llegar a un posible disgnostico',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Voy a enseñar a identificar una posible lesion muscular, dime 5 preguntas que deberia hacer un medico a un paciente para llegar a un posible disgnostico',
+  from: '56933387434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '5643F560B51574E029092AA9B89BA1C6',
+    participant: undefined
+  },
+  messageTimestamp: 1691587294,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que sabes de alejandro masferrer',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que sabes de alejandro masferrer',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '6D46D0933D90FA470A5E9BC3B37B8463',
+    participant: undefined
+  },
+  messageTimestamp: 1691587408,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Contenido',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Contenido',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '5AA5BA4DFF2AAF7D777E084B032E22B7',
+    participant: undefined
+  },
+  messageTimestamp: 1691587418,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que sabes de alejandro masferrer',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que sabes de alejandro masferrer',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: 'AF9F5F96D9D0184662907DF1E12004BA',
+    participant: undefined
+  },
+  messageTimestamp: 1691588986,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuales son las brechas mas significativas sobrenlas hailidades para el siglo 21 y los aprendizajes qué entregan las escuelas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuales son las brechas mas significativas sobrenlas hailidades para el siglo 21 y los aprendizajes qué entregan las escuelas',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '55E47F8A676FCD1721665D21E11D1953',
+    participant: undefined
+  },
+  messageTimestamp: 1691589503,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te quiero entregar cuatro ideas fuerza de un proyecto educativo institucional,\n' +
+      'Estas son:\n' +
+      '1. Cristo en el centro\n' +
+      '2. Comunidad qué aprende \n' +
+      '3. Acogida y cordialidad\n' +
+      '4. Desarrollo integral.\n' +
+      'Que entiendes por cada uno de estos puntos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te quiero entregar cuatro ideas fuerza de un proyecto educativo institucional,\n' +
+    'Estas son:\n' +
+    '1. Cristo en el centro\n' +
+    '2. Comunidad qué aprende \n' +
+    '3. Acogida y cordialidad\n' +
+    '4. Desarrollo integral.\n' +
+    'Que entiendes por cada uno de estos puntos',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: 'B8F510BC9FF7E398C091BBCC4B3C4307',
+    participant: undefined
+  },
+  messageTimestamp: 1691589702,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/19261426_187473844190101_2042118971319498423_n.enc?ccb=11-4&oh=01_AdT4AiaoQlfbMIdpnuGkXmNHnteuKRos5Fwjp-A_DCVq3Q&oe=64FAFF0C&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 899,
+      width: 1599,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/19261426_187473844190101_2042118971319498423_n.enc?ccb=11-4&oh=01_AdT4AiaoQlfbMIdpnuGkXmNHnteuKRos5Fwjp-A_DCVq3Q&oe=64FAFF0C',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__128278d8-df8b-4e23-90d0-155ed41edbad',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD0294729B501A82906C6313981C10DC',
+    participant: undefined
+  },
+  messageTimestamp: 1691590453,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si quisieras escribir el plan estratégico de un colegio y darle prioridades sobre:\n' +
+      'La autonomía, Innovación y emprendimiento.\n' +
+      'Como esta prioridad interpelaria a profesotes y directores',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si quisieras escribir el plan estratégico de un colegio y darle prioridades sobre:\n' +
+    'La autonomía, Innovación y emprendimiento.\n' +
+    'Como esta prioridad interpelaria a profesotes y directores',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '00B20A44D15C90C5EAAC2AAB72E6CF9D',
+    participant: undefined
+  },
+  messageTimestamp: 1691592084,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuales serian las razones para potenciar y Priorizar el desarrollo de las comunidades familiares de un colegio para fortalecer el vinculo colegio familia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuales serian las razones para potenciar y Priorizar el desarrollo de las comunidades familiares de un colegio para fortalecer el vinculo colegio familia',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '6DD6793619A3FB8954544D28F047F0EF',
+    participant: undefined
+  },
+  messageTimestamp: 1691592229,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuales serian las razones para potenciar y Priorizar la innovación de un colegio para atender a las necesidades de las habilidades del siglos 21',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuales serian las razones para potenciar y Priorizar la innovación de un colegio para atender a las necesidades de las habilidades del siglos 21',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04BFD08754EE47006FA',
+    participant: undefined
+  },
+  messageTimestamp: 1691595413,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si tenemos un colegio que tiene una buena valoracion en cuanto a la acogida, como podemos aprovechar eso para potenciar el clima de aula',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si tenemos un colegio que tiene una buena valoracion en cuanto a la acogida, como podemos aprovechar eso para potenciar el clima de aula',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CAEE8CC25C2B03D68A',
+    participant: undefined
+  },
+  messageTimestamp: 1691595913,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'puedes desarrollar esta idea: Eduardo la mente y el corazón, ya que educar la mente sin educar el corazon, no es educación',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'puedes desarrollar esta idea: Eduardo la mente y el corazón, ya que educar la mente sin educar el corazon, no es educación',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09344A9E8F3FB929409',
+    participant: undefined
+  },
+  messageTimestamp: 1691595978,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'puedes desarrollar esta idea: Educar la mente y el corazón, ya que educar la mente sin educar el corazon, no es educación',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'puedes desarrollar esta idea: Educar la mente y el corazón, ya que educar la mente sin educar el corazon, no es educación',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB037337D75AB386D5D57',
+    participant: undefined
+  },
+  messageTimestamp: 1691596095,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que sabes de david perkins y sus investgaciones en en educación',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que sabes de david perkins y sus investgaciones en en educación',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05A87B0A2B82A0EFCCD',
+    participant: undefined
+  },
+  messageTimestamp: 1691596295,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Recuérdame la cita de perkins que inicia como: educar para lo desconocido…',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Recuérdame la cita de perkins que inicia como: educar para lo desconocido…',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB000BCC9D3D950F2FA6F',
+    participant: undefined
+  },
+  messageTimestamp: 1691596322,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'no, educar para lo desconocido, lejos de ser una paradoja…',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no, educar para lo desconocido, lejos de ser una paradoja…',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB014DDAA79801E486671',
+    participant: undefined
+  },
+  messageTimestamp: 1691596351,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'como puedo desarrollar esa idea',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como puedo desarrollar esa idea',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0BE5D30EEF6925E9576',
+    participant: undefined
+  },
+  messageTimestamp: 1691596548,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Bajo esto que planteas como podríamos construir cun curriculum escolar que facilite este desarrollo en los estudiantes, Como serian las asignaturas',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bajo esto que planteas como podríamos construir cun curriculum escolar que facilite este desarrollo en los estudiantes, Como serian las asignaturas',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A79D7F8ECF7E476B7D',
+    participant: undefined
+  },
+  messageTimestamp: 1691596691,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Dame un ejemplo de carva académica por asignaturas para estudiantes de un colegio chileno de 14 años',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame un ejemplo de carva académica por asignaturas para estudiantes de un colegio chileno de 14 años',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0FD115F201D68D20666',
+    participant: undefined
+  },
+  messageTimestamp: 1691596744,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'No, hazlo considerando las propuestas de perkins',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No, hazlo considerando las propuestas de perkins',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A10725FDD31BDF7C58',
+    participant: undefined
+  },
+  messageTimestamp: 1691596824,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Que es el aprendizaje cooperativo',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es el aprendizaje cooperativo',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A784F34FF04E38C8F4',
+    participant: undefined
+  },
+  messageTimestamp: 1691597542,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Quiero marcar algunas ideas, luego ordenamelas en un punteo. Idea 1, desafíos reales de la educación inclusiva idea 2 desequilibro para lograr un ajuste adecuado entre valores y creencias y acciones contra retas, idea 3 cerrar las brechas resulta mas significativo que alcanzar la meta idea 4 fortalecer la la relación entre el bienestar y la mejora de los aprendizajes idea 5 cambiar el foco en que la meta del niño sea menos relevante que la meta de todos idea 6 que los estudiantes focalicen el exito del grupo como propio educación inclusiva como un cono un proceso de innovacionidea 7 aulas inclusivas es algo que debemos dirigirnos',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quiero marcar algunas ideas, luego ordenamelas en un punteo. Idea 1, desafíos reales de la educación inclusiva idea 2 desequilibro para lograr un ajuste adecuado entre valores y creencias y acciones contra retas, idea 3 cerrar las brechas resulta mas significativo que alcanzar la meta idea 4 fortalecer la la relación entre el bienestar y la mejora de los aprendizajes idea 5 cambiar el foco en que la meta del niño sea menos relevante que la meta de todos idea 6 que los estudiantes focalicen el exito del grupo como propio educación inclusiva como un cono un proceso de innovacionidea 7 aulas inclusivas es algo que debemos dirigirnos',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: 'E672851426736D64CCFA1014E18E2143',
+    participant: undefined
+  },
+  messageTimestamp: 1691607163,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '8CD4F5223369DD82178F835276F1238E',
+    participant: undefined
+  },
+  messageTimestamp: 1691607186,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como puedo escribir una fracción en word sin ocupar el editor de ecuaciones',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como puedo escribir una fracción en word sin ocupar el editor de ecuaciones',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: 'B4DD9BF054139B1E1F839E98F1F389E4',
+    participant: undefined
+  },
+  messageTimestamp: 1691607240,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pero hay alguna forma con codigos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero hay alguna forma con codigos',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB000E440D6CE90B23F33',
+    participant: undefined
+  },
+  messageTimestamp: 1691609404,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'eN uen un plan de desarrollo estratégico escolar, necesito que me indiques las condiciones de formato de la redacción de los objetivos generales, los objetivos estratégicos y las fundamentaciones de los objetivos generales',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'eN uen un plan de desarrollo estratégico escolar, necesito que me indiques las condiciones de formato de la redacción de los objetivos generales, los objetivos estratégicos y las fundamentaciones de los objetivos generales',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB09FBE82B2E227F83E0E',
+    participant: undefined
+  },
+  messageTimestamp: 1691613623,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola jappi, ayúdame a redactar un lineamiento, el objetivo general, sus fundamentos y los objetivos estratégicos, yo t entregare las ideas que sustentan esta redaccion',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola jappi, ayúdame a redactar un lineamiento, el objetivo general, sus fundamentos y los objetivos estratégicos, yo t entregare las ideas que sustentan esta redaccion',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B70E013C1DF0BEE2CB',
+    participant: undefined
+  },
+  messageTimestamp: 1691613768,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Lineamiento: Innovación y aprendizaje para todos\n' +
+        'Objetivo: intencional, incorporar, instalar una mirada innovadora\n' +
+        'Fundamentos: los cambios de los últimos tiempos, fomentando el pénsamiento critico para mejorar el entorno',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Lineamiento: Innovación y aprendizaje para todos\n' +
+    'Objetivo: intencional, incorporar, instalar una mirada innovadora\n' +
+    'Fundamentos: los cambios de los últimos tiempos, fomentando el pénsamiento critico para mejorar el entorno',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E891EC7D3669BD1821',
+    participant: undefined
+  },
+  messageTimestamp: 1691613814,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Redacta un nuevo objetivo general',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Redacta un nuevo objetivo general',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB008E522325AB1B39B1F',
+    participant: undefined
+  },
+  messageTimestamp: 1691614036,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'queremos redactar un lineamiento asociado a el bienestar emocional, físico y mental de una comunidad educativa, entrégame objetivos generales y objetivos estrategicos',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'queremos redactar un lineamiento asociado a el bienestar emocional, físico y mental de una comunidad educativa, entrégame objetivos generales y objetivos estrategicos',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: 'B4779D4D42D01E2BDAEE7FB3F4BE3598',
+    participant: undefined
+  },
+  messageTimestamp: 1691630611,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola jappi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola jappi',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '04A8F3CA99482BAC4BD4B6ABBAA41D5D',
+    participant: undefined
+  },
+  messageTimestamp: 1691630618,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que es la inclusividad',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que es la inclusividad',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '8947FFC0DF06129E70A4CE1D3565F505',
+    participant: undefined
+  },
+  messageTimestamp: 1691630645,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Se dice inclusividad o inclusión',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Se dice inclusividad o inclusión',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '91992C48F1ECB3DE25A986C97A1C00EA',
+    participant: undefined
+  },
+  messageTimestamp: 1691632422,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Te va mostrando cómo va quedando lo que tú le estás diciendo y el reconocimiento que tiene esta aplicación de voz Es súper buena En comparación con la con lo que son los audios que uno sabe si va a poder reconocer lo que te estoy diciendo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Te va mostrando cómo va quedando lo que tú le estás diciendo y el reconocimiento que tiene esta aplicación de voz Es súper buena En comparación con la con lo que son los audios que uno sabe si va a poder reconocer lo que te estoy diciendo',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '5C15574823ED3D031A78B0796A805232',
+    participant: undefined
+  },
+  messageTimestamp: 1691632587,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Recuerdas mi nombre?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Recuerdas mi nombre?',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '702A54C35699AB7F1A6E17341D4563FE',
+    participant: undefined
+  },
+  messageTimestamp: 1691632605,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Quien es jappi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Quien es jappi',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05B6734FFAC57B54076',
+    participant: undefined
+  },
+  messageTimestamp: 1691684542,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola Japppi',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola Japppi',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB004397BD20B87F88F7B',
+    participant: undefined
+  },
+  messageTimestamp: 1691684573,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'quiero que me ayudes a encontrar una fiorma de hacer que me hijo elija un buen regalo de cumpleaños, ayudame a dirigir esa conversacion',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'quiero que me ayudes a encontrar una fiorma de hacer que me hijo elija un buen regalo de cumpleaños, ayudame a dirigir esa conversacion',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB036C6458000A04ABE9E',
+    participant: undefined
+  },
+  messageTimestamp: 1691688040,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ya jappi hagamos una busqueda del tesoro para los niños de 5° basico sobre el sistema respiratorio, para esto necesito que me menciones todas las partes y funciones del sistema respiratorio',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ya jappi hagamos una busqueda del tesoro para los niños de 5° basico sobre el sistema respiratorio, para esto necesito que me menciones todas las partes y funciones del sistema respiratorio',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04ADD21E2846103EE00',
+    participant: undefined
+  },
+  messageTimestamp: 1691688423,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'perfecto, ahora quiero que me hagas acertijos para los siguientes lugares: Pista de atletismo, cancha de basquetbol, sala de clases, cancha de voley, entrada del colegio, recepción, quiosco escolar, cancha principal, laboratorio de ciencias, muro de escalada y patio de los arboles gigantes.',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'perfecto, ahora quiero que me hagas acertijos para los siguientes lugares: Pista de atletismo, cancha de basquetbol, sala de clases, cancha de voley, entrada del colegio, recepción, quiosco escolar, cancha principal, laboratorio de ciencias, muro de escalada y patio de los arboles gigantes.',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0E6C31561CF1CAE54F9',
+    participant: undefined
+  },
+  messageTimestamp: 1691688545,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'puedes hacerlos un poco más complejos?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'puedes hacerlos un poco más complejos?',
+  from: '56976146668'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56976146668@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D962F33B2C2E90CD3F',
+    participant: undefined
+  },
+  messageTimestamp: 1691689851,
+  pushName: 'Ẹduardo Bórquez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'un acertijo para la sala de clases',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'un acertijo para la sala de clases',
+  from: '56976146668'
+}
