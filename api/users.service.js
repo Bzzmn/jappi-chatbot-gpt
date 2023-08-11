@@ -8,11 +8,11 @@ const axios = require("axios")
 
 const getUser = async (phone) => {
 
+  var getUrl =  process.env.URL_ACCESS_USERS
   try {
     var config = {
       method: "get",
-      url: `http://127.0.0.1:1337/api/usuarios?filters[phone][$eq]=${phone}`,
-      //url: `http://127.0.0.1:1337/api/usuarios?filters[phone][$eq]=56988887766`,
+      url: `${getUrl}?filters[phone][$eq]=${phone}`,
       headers: { 
         Authorization: process.env.STRAPI_KEY,
       },
@@ -27,40 +27,17 @@ const getUser = async (phone) => {
 };
 
 /**
- * Consultamos el ticket de soporte
- * @param {*} id
+ * Registramos al usuario en funcion de los datos entregados
+ * @param {*} datosEntrantes
  * @returns
  */
 
-/*
-const getTicket = async (id) => {
-  try {
-    var config = {
-      method: "get",
-      url: `http://127.0.0.1:1337/api/tickets?populate[user_id][filters][id][$eq]=${id}`,
-      //url: `https://api-jmhpt.strapidemo.com/api/tickets?populate[user_id][filters][id][$eq]=${id}`,
-      headers: {
-        Authorization: process.env.STRAPI_KEY,
-      },
-    };
-
-    const response = await axios(config);
-    return response.data;
-  } catch (e) {
-    console.log(e);
-    return null;
-  }
-};
-
-*/
-
 const regUser = async (datosEntrantes) => {
-
 
   var config = {
     method: 'post',
     maxBodyLength: Infinity,
-    url: 'http://127.0.0.1:1337/api/usuarios',
+    url: process.env.URL_ACCESS_USERS,
     headers: { 
       Authorization: process.env.STRAPI_KEY,
       "Content-Type" : "application/json",
