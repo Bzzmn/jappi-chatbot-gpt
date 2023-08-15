@@ -3,7 +3,7 @@ const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@
 
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
-const MockAdapter = require('@bot-whatsapp/database/mock')
+const MongoAdapter = require('@bot-whatsapp/database/mongo')
 
 /**
  * ChatGPT
@@ -24,7 +24,12 @@ const flowAlumno = require("./flows/flowAlumno");
 const flowApoderado = require("./flows/flowApoderado");
 
 const main = async () => {
-    const adapterDB = new MockAdapter()
+    const adapterDB = new MongoAdapter(
+        {
+            dbUri: process.env.MONGO_DB,
+            dbName: 'jappi-db',
+        }
+    )
     const adapterProvider = createProvider(BaileysProvider)
     const adapterFlow = createFlow([
         flowPrincipal,
