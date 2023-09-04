@@ -23,7 +23,7 @@ module.exports = {
   flowProfesor_consulta: (chatgptClass) => {
     return addKeyword("Contenido", {sensitive:true})
       .addAction(async (ctx, { endFlow, flowDynamic, provider }) => {
-        await flowDynamic("Consultando en la base de datos...");
+        await flowDynamic("Conectando...");
 
         const jid = ctx.key.remoteJid
         const refProvider = await provider.getInstance()
