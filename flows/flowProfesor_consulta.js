@@ -21,26 +21,15 @@ const getPrompt = async () => {
 
 module.exports = {
   flowProfesor_consulta: (chatgptClass) => {
-    return addKeyword("Contenido", {sensitive:true})
+   return addKeyword("Iniciar", {sensitive:true})
       .addAction(async (ctx, { endFlow, flowDynamic, provider }) => {
-        await flowDynamic("Conectando...");
-
+        await flowDynamic("iniciando...");
         const jid = ctx.key.remoteJid
         const refProvider = await provider.getInstance()
-
-        await refProvider.presenceSubscribe(jid)
-        await delay(500)
-
-        await refProvider.sendPresenceUpdate('composing', jid)
-
-
+        refProvider.presenceSubscribe(jid)
+        refProvider.sendPresenceUpdate('composing', jid)
         const user = await getUser(ctx.from);//Consultamos a strapi! ctx.from = numero
-
-        console.log(user)
-
         const data = await getPrompt();
-
-
         await chatgptClass.handleMsgChatGPT(data);//Dicinedole actua!!
 
         const textFromAI = await chatgptClass.handleMsgChatGPT(
@@ -50,7 +39,7 @@ module.exports = {
       })
 
       .addAnswer(
-        `Cuando quieras cerrar la sesion escribe *Salir*`,
+        `Para cerrar la sesion escribe *Salir*`,
         { capture: true },
         async (ctx, { fallBack }) => {
           // ctx.body = es lo que la peronsa escribe!!
@@ -60,6 +49,8 @@ module.exports = {
               await fallBack(textFromAI.text);
           }
         }
-      );
+      )
+
+      
   },
 };

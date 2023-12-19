@@ -3,4 +3,5 @@
 /node_modules
 npm-debug.log
 .DS_Store
-.log
+*.log
+/bot_sessions

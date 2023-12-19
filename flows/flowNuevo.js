@@ -6,24 +6,20 @@ const flowRegistro = require("./flowRegistro");
 const flowDespedida = require("./flowDespedida");
 
 const flowNuevo = addKeyword('##_FLOW_CLIENTE_NUEVO_##')
-.addAnswer("Te doy la bienvenida a *Jappi* 😊")
-.addAnswer("Soy tu asistente virtual para la educación", {delay: 1000})
-.addAnswer (['Necesitas registrarte para acceder a todas las herramientas que tenemos a tu disposición',
-             'es muy simple']
-             )
+
+.addAnswer('Soy Jappi, tu asistente virtual para la educación, te doy la bienvenida!🎉')
+.addAnswer ('Para poder brindarte la mejor experiencia con la ayuda de la Inteligencia Artificial en tu día a día, necesito algunos datos. Estoy aquí para hacer tu vida más fácil y divertida. ')
 .addAnswer ([
-    '¿Quieres comenzar ahora?',
-    'Responde *Si* para registrarte', 
-    'Responde *No* para cancelar el registro',
+    '¿Listo para comenzar?',
+    'Responde *Si* para comenzar el registo', 
+    'Responde *No* para cancelar',
     ],
     {capture: true},
     async(ctx,{fallBack, gotoFlow}) => {
         let opcion = ctx.body.trim()    
         if (!['Si','No', 'Salir'].includes(opcion)){
-        
             return fallBack('opción inválida, intentalo nuevamente')
         }
-
         switch (opcion) {
             case 'Si':
                 await gotoFlow(flowRegistro)
@@ -32,8 +28,6 @@ const flowNuevo = addKeyword('##_FLOW_CLIENTE_NUEVO_##')
                 await gotoFlow (flowDespedida)
                 break
         }
-
-        console.log(`El usuario respondio ${ctx.body}`)
     },
 
 )
